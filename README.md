@@ -20,7 +20,7 @@ I'm a **computer teacher** passionate about **artificial intelligence, machine l
 ---  
 
 ## 📌 Featured Projects  
-🚀 [Project 1 - Machine Learning Model]([#](https://github.com/NasibehNazari/ML2_Python)) - A simple ML project using Scikit-le  
+🚀 [Project 1 - Machine Learning Model]https://github.com/NasibehNazari/ML2_Python- A simple ML project using Scikit-le  
 🎨 [Project 2 - UI/UX Case Study](#) - A modern design concept for a web app  
 📊 [Project 3 - Data Analysis](#) - Insights from real-world datasets using Python  
 
