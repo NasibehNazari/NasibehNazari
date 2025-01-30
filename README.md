@@ -20,7 +20,7 @@ I'm a **computer teacher** passionate about **artificial intelligence, machine l
 ---  
 
 ## 📌 Featured Projects  
-🚀 [ai_j4_regrision (1).ipynb](#) - A simple ML project using Scikit-le  
+🚀 [ai_j4_regrision (1).ipynb](ai_j4_regrision (1).ipynb) - A simple ML project using Scikit-le  
 🚀 [Project 2 - Machine Learning Model](#) - A simple ML project using Scikit-le  
 🚀 [Project 3 - Machine Learning Model](#) - A simple ML project using Scikit-le  
 
