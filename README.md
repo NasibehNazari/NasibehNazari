@@ -29,7 +29,7 @@ I'm a **computer teacher** passionate about **artificial intelligence, machine l
 ---  
 
 ## 📫 Connect with Me  
-🔗 [LinkedIn](#) | 📧 **Email:** [your.email@example.com](mailto:Nasibeh.nazari@gmail.com)  
+🔗 [LinkedIn](#) | 📧 **Email:** mailto:Nasibeh.nazari@gmail.com 
 
 ✨ **Let's build something amazing together!** 🚀  
 
